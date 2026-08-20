@@ -26,13 +26,15 @@ def get_python_executable():
 def start_backend():
     python_exe = get_python_executable()
     app_py = os.path.join(ROOT_DIR, "backend", "app.py")
+    log_path = os.path.join(ROOT_DIR, "backend", "start_backend.log")
+    log_file = open(log_path, "w", encoding="utf-8")
     proc = subprocess.Popen(
         [python_exe, app_py],
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.DEVNULL,
+        stdout=log_file,
+        stderr=log_file,
         cwd=os.path.join(ROOT_DIR, "backend")
     )
-    return proc
+    return proc, log_file
 
 def wait_for_server():
     for _ in range(15):
@@ -133,11 +135,18 @@ def generate_reports(results, passed, failed, duration):
 
 def main():
     print("Starting Flask server for API integration tests...")
-    proc = start_backend()
+    proc, log_file = start_backend()
     
     try:
         if not wait_for_server():
             print("Failed to start Flask server on port 5000.")
+            log_file.close()
+            log_path = os.path.join(ROOT_DIR, "backend", "start_backend.log")
+            if os.path.exists(log_path):
+                with open(log_path, "r", encoding="utf-8") as lf:
+                    print("\n=== Flask Backend Server Log Output ===")
+                    print(lf.read())
+                    print("=======================================\n")
             sys.exit(1)
             
         # Dynamically import and run tests
@@ -195,6 +204,10 @@ def main():
         
     finally:
         print("Stopping Flask backend server...")
+        try:
+            log_file.close()
+        except Exception:
+            pass
         proc.terminate()
         proc.wait()
 
