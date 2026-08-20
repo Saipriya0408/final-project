@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_card_white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Recovery Task"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_title"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task Type"
+        android:textSize="14sp"
+        android:textColor="@color/text_title"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="2"
+        android:layout_marginBottom="16dp">
+        
+        <ToggleButton
+            android:id="@+id/btnTypeTablet"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:textOn="Tablet / Med"
+            android:textOff="Tablet / Med"
+            android:layout_marginEnd="4dp"
+            android:layout_marginBottom="8dp"
+            android:textAllCaps="false" />
+
+        <ToggleButton
+            android:id="@+id/btnTypeTopical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:textOn="Topical / Apply"
+            android:textOff="Topical / Apply"
+            android:layout_marginStart="4dp"
+            android:layout_marginBottom="8dp"
+            android:textAllCaps="false" />
+
+        <ToggleButton
+            android:id="@+id/btnTypeExercise"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:textOn="Exercise / Cardio"
+            android:textOff="Exercise / Cardio"
+            android:layout_marginEnd="4dp"
+            android:textAllCaps="false" />
+
+        <ToggleButton
+            android:id="@+id/btnTypeMonitor"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:textOn="Check / Monitor"
+            android:textOff="Check / Monitor"
+            android:layout_marginStart="4dp"
+            android:textAllCaps="false" />
+    </GridLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task Name"
+        android:textSize="14sp"
+        android:textColor="@color/text_title"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/etTaskName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="e.g. Amoxicillin 500mg"
+        android:inputType="text"
+        android:textColor="@color/text_title"
+        android:textColorHint="@color/input_hint"
+        android:background="@drawable/bg_input"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reminder Times"
+        android:textSize="14sp"
+        android:textColor="@color/text_title"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        android:layout_marginBottom="16dp">
+        
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/cgReminders"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:singleLine="true">
+            
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chip8AM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8:00 AM"
+                style="@style/Widget.MaterialComponents.Chip.Filter" />
+                
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chip2PM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2:00 PM"
+                style="@style/Widget.MaterialComponents.Chip.Filter" />
+                
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chip8PM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8:00 PM"
+                style="@style/Widget.MaterialComponents.Chip.Filter" />
+                
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipAddCustomTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="+ Add"
+                app:chipIcon="@drawable/ic_time"
+                style="@style/Widget.MaterialComponents.Chip.Action" />
+                
+        </com.google.android.material.chip.ChipGroup>
+    </HorizontalScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Repeat Duration"
+        android:textSize="14sp"
+        android:textColor="@color/text_title"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/etDuration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Number of days (e.g. 7)"
+        android:inputType="number"
+        android:textColor="@color/text_title"
+        android:textColorHint="@color/input_hint"
+        android:background="@drawable/bg_input"
+        android:padding="12dp"
+        android:layout_marginBottom="24dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSaveTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save task"
+        android:background="@drawable/bg_button"
+        android:textColor="@color/white"
+        android:padding="12dp"
+        android:textAllCaps="false" />
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

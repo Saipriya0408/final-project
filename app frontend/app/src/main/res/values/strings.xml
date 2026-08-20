@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">SymptoCare</string>
+    
+    <!-- Navigation -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    
+    <!-- Onboarding 1 -->
+    <string name="onboarding1_title">Describe Your\nSymptoms</string>
+    <string name="onboarding1_desc">Easily describe symptoms using text or\nicons. Simple and stress-free.</string>
+    
+    <!-- Onboarding 2 -->
+    <string name="onboarding2_title">Smart Specialist\nRecommendation</string>
+    <string name="onboarding2_desc">AI-powered healthcare logic\nrecommends the right specialist for you.</string>
+    
+    <!-- Onboarding 3 -->
+    <string name="onboarding3_title">Nearby Doctors &amp;\nHospitals</string>
+    <string name="onboarding3_desc">Discover nearby hospitals and qualified\ndoctors instantly.</string>
+    
+    <!-- Sign Up -->
+    <string name="signup_title">Create Account</string>
+    <string name="signup_desc">Join SymptoCare for smarter healthcare</string>
+    <string name="label_fullname">Full Name</string>
+    <string name="hint_fullname">Enter your full name</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="hint_phone">Enter your phone number</string>
+    <string name="label_email">Email</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="label_password">Password</string>
+    <string name="hint_password">Create a password</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="hint_confirm_password">Confirm your password</string>
+    <string name="location_info">We\'ll need location access to show\nnearby doctors and hospitals</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="sign_in_link">Sign In</string>
+    
+    <!-- Sign In -->
+    <string name="signin_title">Welcome Back</string>
+    <string name="signin_desc">Sign in to continue your healthcare journey</string>
+    <string name="label_email_phone">Email or Phone</string>
+    <string name="hint_email_phone">Enter your email or phone</string>
+    <string name="hint_enter_password">Enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btn_login">Login</string>
+    <string name="or_text">or</string>
+    <string name="btn_guest">Continue as Guest</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="sign_up_link">Sign Up</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_symptoms">Symptoms</string>
+    <string name="nav_doctors">Doctors</string>
+    <string name="nav_hospitals">Hospitals</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Home Tab -->
+    <string name="greeting">Good Morning</string>
+    <string name="welcome_message">Welcome to SymptoCare</string>
+    <string name="ai_symptom_checker">AI Symptom Checker</string>
+    <string name="ai_symptom_checker_desc">Describe how you feel</string>
+    <string name="text_input">Text Input</string>
+    <string name="select_symptom_icons">Select Symptom Icons</string>
+    <string name="quick_symptoms">Quick Symptoms</string>
+    <string name="ai_powered">AI Powered</string>
+    <string name="instant_recommendations">Instant Recommendations</string>
+    <string name="instant_recommendations_desc">Get immediate suggestions based on your symptoms.</string>
+    <string name="start_analysis">Start Analysis</string>
+    
+    <!-- Profile Tab -->
+    <string name="prof_name">John Doe</string>
+    <string name="prof_email">john.doe@email.com</string>
+    <string name="prof_phone">+1 (555) 123-4567</string>
+    <string name="prof_edit">Edit Profile</string>
+    <string name="prof_appointments">Appointments</string>
+    <string name="prof_health_records">Health Records</string>
+    <string name="prof_saved_doctors">Saved Doctors</string>
+    <string name="prof_hospitals">Hospitals</string>
+    <string name="prof_my_appointments">My Appointments</string>
+    <string name="prof_health_history">Health History</string>
+    <string name="prof_saved_hospitals">Saved Hospitals</string>
+    <string name="prof_settings">Settings</string>
+    <string name="prof_logout">Logout</string>
+    
+    <!-- Symptoms Tab -->
+    <string name="describe_symptoms">Describe Symptoms</string>
+    <string name="describe_symptoms_desc">Tell us how you\'re feeling</string>
+    <string name="symptom_icons">Symptom Icons</string>
+    <string name="describe_your_symptoms">Describe your symptoms</string>
+    <string name="symptom_text_hint">E.g., I have a fever and sore throat for 2 days...</string>
+    <string name="symptom_text_helper">Be as detailed as possible for better\nrecommendations</string>
+    <string name="select_your_symptoms">Select your symptoms</string>
+    <string name="analyze_symptoms">Analyze Symptoms</string>
+    <string name="symp_fever">Fever</string>
+    <string name="symp_headache">Headache</string>
+    <string name="symp_chest_pain">Chest Pain</string>
+    <string name="symp_cough">Cough</string>
+    <string name="symp_stomach_pain">Stomach Pain</string>
+    <string name="symp_fatigue">Fatigue</string>
+    <string name="symp_eye_problem">Eye Problem</string>
+    <string name="symp_breathing_issue">Breathing Issue</string>
+    <string name="symp_ear_pain">Ear Pain</string>
+    <string name="symp_skin_problem">Skin Problem</string>
+    
+    <!-- Doctors Tab -->
+    <string name="find_doctors">Find Doctors</string>
+    <string name="search_doctors">Search doctors or specialties...</string>
+    <string name="filter_all">All Doctors</string>
+    <string name="filter_available">Available Now</string>
+    <string name="filter_top">Top Rated</string>
+    <string name="doctors_found">5 doctors found</string>
+    <string name="filters">Filters</string>
+    <string name="dr_name_1">Dr. Sarah Johnson</string>
+    <string name="dr_spec_1">Cardiologist</string>
+    <string name="dr_name_2">Dr. Michael Chen</string>
+    <string name="dr_spec_2">Cardiologist</string>
+    <string name="available">Available</string>
+    <string name="experience">Experience</string>
+    <string name="consultation_fee">Consultation Fee</string>
+    <string name="available_today">Available Today</string>
+    <string name="book">Book</string>
+    
+    <!-- Hospitals Tab -->
+    <string name="nearby_hospitals">Nearby Hospitals</string>
+    <string name="search_hospitals">Search hospitals...</string>
+    <string name="hospitals_found">4 hospitals found</string>
+    <string name="hospital_name_1">Central Medical Hospital</string>
+    <string name="hospital_address_1">123 Medical Boulevard, Downtown</string>
+    <string name="departments">Departments</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="emergency_247">24/7 Emergency</string>
+</resources>

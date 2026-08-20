@@ -1,0 +1,4323 @@
+[
+  {
+    "id": "doc_001",
+    "name": "Dr. Kavya Krishnan",
+    "specialist": "Dermatologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.4,
+    "experience_years": 24,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9790730858",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Malayalam",
+      "English",
+      "Hindi"
+    ],
+    "review_count": 558,
+    "time_slots": [
+      "11:30 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_002",
+    "name": "Dr. Vikram Chacko",
+    "specialist": "Dermatologist",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.7,
+    "experience_years": 24,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9311622793",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Telugu",
+      "Malayalam"
+    ],
+    "review_count": 771,
+    "time_slots": [
+      "7:00 PM",
+      "1:00 PM",
+      "3:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_003",
+    "name": "Dr. Arun Krishnan",
+    "specialist": "Dermatologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.5,
+    "experience_years": 13,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9497242183",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Hindi",
+      "Malayalam",
+      "Telugu",
+      "Tamil"
+    ],
+    "review_count": 484,
+    "time_slots": [
+      "11:30 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_004",
+    "name": "Dr. Arun Varma",
+    "specialist": "Dermatologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.2,
+    "experience_years": 9,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9135154219",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "review_count": 630,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_005",
+    "name": "Dr. Sneha Rajan",
+    "specialist": "Dermatologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.6,
+    "experience_years": 27,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9994450287",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "review_count": 725,
+    "time_slots": [
+      "10:00 AM",
+      "3:00 PM",
+      "5:30 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_006",
+    "name": "Dr. Kavya Nair",
+    "specialist": "Dermatologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.6,
+    "experience_years": 8,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9408429366",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 327,
+    "time_slots": [
+      "1:00 PM",
+      "11:30 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_007",
+    "name": "Dr. Ashok Chacko",
+    "specialist": "Dermatologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.5,
+    "experience_years": 13,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9350196186",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Tamil",
+      "Hindi"
+    ],
+    "review_count": 84,
+    "time_slots": [
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_008",
+    "name": "Dr. Vignesh Rao",
+    "specialist": "Dermatologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.0,
+    "experience_years": 8,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9999113867",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Malayalam",
+      "Tamil",
+      "Hindi"
+    ],
+    "review_count": 788,
+    "time_slots": [
+      "10:00 AM",
+      "3:00 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_009",
+    "name": "Dr. Ashok Rajan",
+    "specialist": "Dermatologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.5,
+    "experience_years": 23,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9969445429",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Tamil",
+      "Malayalam",
+      "Hindi"
+    ],
+    "review_count": 758,
+    "time_slots": [
+      "10:00 AM",
+      "11:30 AM",
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_010",
+    "name": "Dr. Nithya Natarajan",
+    "specialist": "Dermatologist",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.1,
+    "experience_years": 13,
+    "qualification": "MBBS, MD Dermatology",
+    "phone": "+91-9536433416",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Malayalam",
+      "Telugu",
+      "Hindi"
+    ],
+    "review_count": 504,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_011",
+    "name": "Dr. Suresh Menon",
+    "specialist": "Allergist",
+    "hospital": "MIOT International",
+    "rating": 4.8,
+    "experience_years": 13,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9330807899",
+    "hospital_phone": "044-42002288",
+    "lat": 13.0189,
+    "lng": 80.1834,
+    "city": "Chennai",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600089",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 378,
+    "time_slots": [
+      "5:30 PM",
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_012",
+    "name": "Dr. Balaji Reddy",
+    "specialist": "Allergist",
+    "hospital": "MIOT International",
+    "rating": 4.9,
+    "experience_years": 17,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9667481792",
+    "hospital_phone": "044-42002288",
+    "lat": 13.0189,
+    "lng": 80.1834,
+    "city": "Chennai",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600089",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Telugu",
+      "Malayalam"
+    ],
+    "review_count": 239,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_013",
+    "name": "Dr. Sneha Pillai",
+    "specialist": "Allergist",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.0,
+    "experience_years": 19,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9253312020",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Tamil",
+      "Hindi"
+    ],
+    "review_count": 673,
+    "time_slots": [
+      "7:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_014",
+    "name": "Dr. Rahul Raman",
+    "specialist": "Allergist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.9,
+    "experience_years": 25,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9817259836",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "English",
+      "Malayalam",
+      "Tamil"
+    ],
+    "review_count": 626,
+    "time_slots": [
+      "7:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_015",
+    "name": "Dr. Aishwarya Krishnan",
+    "specialist": "Allergist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.1,
+    "experience_years": 18,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9784145136",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "English",
+      "Tamil"
+    ],
+    "review_count": 806,
+    "time_slots": [
+      "5:30 PM",
+      "7:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_016",
+    "name": "Dr. Nithya Varma",
+    "specialist": "Allergist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.3,
+    "experience_years": 20,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9572266267",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "Hindi",
+      "Malayalam",
+      "Tamil"
+    ],
+    "review_count": 978,
+    "time_slots": [
+      "1:00 PM",
+      "10:00 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_017",
+    "name": "Dr. Arun Kumar",
+    "specialist": "Allergist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.7,
+    "experience_years": 7,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9112793150",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "Malayalam",
+      "Hindi",
+      "English",
+      "Tamil"
+    ],
+    "review_count": 243,
+    "time_slots": [
+      "7:00 PM",
+      "1:00 PM",
+      "3:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_018",
+    "name": "Dr. Rahul Nair",
+    "specialist": "Allergist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.9,
+    "experience_years": 28,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9452119216",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "review_count": 753,
+    "time_slots": [
+      "11:30 AM",
+      "7:00 PM",
+      "3:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_019",
+    "name": "Dr. Sneha Chacko",
+    "specialist": "Allergist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.3,
+    "experience_years": 16,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9546473070",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 461,
+    "time_slots": [
+      "3:00 PM",
+      "10:00 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_020",
+    "name": "Dr. Ramesh Menon",
+    "specialist": "Allergist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.9,
+    "experience_years": 14,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9679825857",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 584,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM",
+      "7:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_021",
+    "name": "Dr. Ananya Nair",
+    "specialist": "Gastroenterologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.7,
+    "experience_years": 25,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9852355250",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Telugu",
+      "English",
+      "Malayalam",
+      "Hindi"
+    ],
+    "review_count": 321,
+    "time_slots": [
+      "10:00 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_022",
+    "name": "Dr. Manoj Rao",
+    "specialist": "Gastroenterologist",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.7,
+    "experience_years": 8,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9860756685",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Tamil",
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 239,
+    "time_slots": [
+      "11:30 AM",
+      "7:00 PM",
+      "3:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_023",
+    "name": "Dr. Ananya Babu",
+    "specialist": "Gastroenterologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.0,
+    "experience_years": 16,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9757163569",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 800,
+    "languages": [
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 380,
+    "time_slots": [
+      "11:30 AM",
+      "7:00 PM",
+      "1:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_024",
+    "name": "Dr. Kavya Rajan",
+    "specialist": "Gastroenterologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.9,
+    "experience_years": 28,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9479892613",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "review_count": 499,
+    "time_slots": [
+      "10:00 AM",
+      "1:00 PM",
+      "11:30 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_025",
+    "name": "Dr. Vignesh Chacko",
+    "specialist": "Gastroenterologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.4,
+    "experience_years": 5,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9916224201",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Telugu",
+      "Malayalam"
+    ],
+    "review_count": 73,
+    "time_slots": [
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_026",
+    "name": "Dr. Suresh Varma",
+    "specialist": "Gastroenterologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.8,
+    "experience_years": 24,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9199707450",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Malayalam",
+      "Hindi"
+    ],
+    "review_count": 338,
+    "time_slots": [
+      "7:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_027",
+    "name": "Dr. Priya Rajan",
+    "specialist": "Gastroenterologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.0,
+    "experience_years": 20,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9681921632",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "Malayalam",
+      "Tamil",
+      "Hindi"
+    ],
+    "review_count": 210,
+    "time_slots": [
+      "3:00 PM",
+      "7:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_028",
+    "name": "Dr. Nithya Raman",
+    "specialist": "Gastroenterologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.9,
+    "experience_years": 11,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9687748132",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Telugu",
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 765,
+    "time_slots": [
+      "10:00 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_029",
+    "name": "Dr. Ramesh Babu",
+    "specialist": "Gastroenterologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.8,
+    "experience_years": 21,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9610487723",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 800,
+    "languages": [
+      "Tamil",
+      "Hindi",
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 332,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_030",
+    "name": "Dr. Ananya Kumar",
+    "specialist": "Gastroenterologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.1,
+    "experience_years": 15,
+    "qualification": "MBBS, MD, DM Gastroenterology",
+    "phone": "+91-9784266990",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 504,
+    "time_slots": [
+      "3:00 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_031",
+    "name": "Dr. Kavya Natarajan",
+    "specialist": "Hepatologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.1,
+    "experience_years": 7,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9305203759",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Malayalam",
+      "Tamil",
+      "Hindi",
+      "Telugu"
+    ],
+    "review_count": 306,
+    "time_slots": [
+      "1:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_032",
+    "name": "Dr. Ananya Nair",
+    "specialist": "Hepatologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.2,
+    "experience_years": 27,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9151488584",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Malayalam",
+      "Tamil",
+      "English"
+    ],
+    "review_count": 446,
+    "time_slots": [
+      "10:00 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_033",
+    "name": "Dr. Kavya Rajan",
+    "specialist": "Hepatologist",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.3,
+    "experience_years": 22,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9819872065",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Tamil",
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 159,
+    "time_slots": [
+      "10:00 AM",
+      "3:00 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_034",
+    "name": "Dr. Ananya Menon",
+    "specialist": "Hepatologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.8,
+    "experience_years": 26,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9288142461",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 686,
+    "time_slots": [
+      "5:30 PM",
+      "10:00 AM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_035",
+    "name": "Dr. Prakash Rajan",
+    "specialist": "Hepatologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.8,
+    "experience_years": 8,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9250041593",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 800,
+    "languages": [
+      "Hindi",
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 700,
+    "time_slots": [
+      "11:30 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_036",
+    "name": "Dr. Swathi Reddy",
+    "specialist": "Hepatologist",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.0,
+    "experience_years": 9,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9400500090",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 561,
+    "time_slots": [
+      "5:30 PM",
+      "7:00 PM",
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_037",
+    "name": "Dr. Aishwarya Pillai",
+    "specialist": "Hepatologist",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.6,
+    "experience_years": 17,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9567882320",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Malayalam",
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 604,
+    "time_slots": [
+      "3:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_038",
+    "name": "Dr. Swathi Reddy",
+    "specialist": "Hepatologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.2,
+    "experience_years": 27,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9103734208",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "review_count": 423,
+    "time_slots": [
+      "7:00 PM",
+      "1:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_039",
+    "name": "Dr. Ashok Natarajan",
+    "specialist": "Hepatologist",
+    "hospital": "MIOT International",
+    "rating": 4.3,
+    "experience_years": 25,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9524751540",
+    "hospital_phone": "044-42002288",
+    "lat": 13.0189,
+    "lng": 80.1834,
+    "city": "Chennai",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600089",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "review_count": 51,
+    "time_slots": [
+      "7:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_040",
+    "name": "Dr. Vignesh Iyer",
+    "specialist": "Hepatologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.1,
+    "experience_years": 20,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9427902107",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "review_count": 863,
+    "time_slots": [
+      "1:00 PM",
+      "3:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_041",
+    "name": "Dr. Vikram Sharma",
+    "specialist": "Primary Care Provider",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.1,
+    "experience_years": 11,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9660047211",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Telugu",
+      "Tamil",
+      "Hindi",
+      "Malayalam"
+    ],
+    "review_count": 260,
+    "time_slots": [
+      "5:30 PM",
+      "3:00 PM",
+      "10:00 AM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_042",
+    "name": "Dr. Swathi Reddy",
+    "specialist": "Primary Care Provider",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.1,
+    "experience_years": 19,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9113266713",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Hindi",
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 56,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_043",
+    "name": "Dr. Manoj Rao",
+    "specialist": "Primary Care Provider",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.7,
+    "experience_years": 13,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9680191862",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "review_count": 809,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_044",
+    "name": "Dr. Kavya Reddy",
+    "specialist": "Primary Care Provider",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.2,
+    "experience_years": 23,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9757754813",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 267,
+    "time_slots": [
+      "10:00 AM",
+      "7:00 PM",
+      "3:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_045",
+    "name": "Dr. Manoj Raman",
+    "specialist": "Primary Care Provider",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.7,
+    "experience_years": 8,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9223098753",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 690,
+    "time_slots": [
+      "11:30 AM",
+      "1:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_046",
+    "name": "Dr. Swathi Chacko",
+    "specialist": "Primary Care Provider",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.2,
+    "experience_years": 26,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9488173126",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Hindi"
+    ],
+    "review_count": 299,
+    "time_slots": [
+      "11:30 AM",
+      "1:00 PM",
+      "7:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_047",
+    "name": "Dr. Vikram Rao",
+    "specialist": "Primary Care Provider",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.9,
+    "experience_years": 8,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9410634340",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Telugu",
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 643,
+    "time_slots": [
+      "1:00 PM",
+      "3:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_048",
+    "name": "Dr. Vikram Varma",
+    "specialist": "Primary Care Provider",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.4,
+    "experience_years": 8,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9816218521",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Hindi",
+      "Malayalam"
+    ],
+    "review_count": 660,
+    "time_slots": [
+      "10:00 AM",
+      "5:30 PM",
+      "11:30 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_049",
+    "name": "Dr. Sneha Babu",
+    "specialist": "Primary Care Provider",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.6,
+    "experience_years": 20,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9891875724",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Tamil",
+      "English",
+      "Hindi",
+      "Malayalam"
+    ],
+    "review_count": 335,
+    "time_slots": [
+      "10:00 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_050",
+    "name": "Dr. Divya Babu",
+    "specialist": "Primary Care Provider",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.8,
+    "experience_years": 12,
+    "qualification": "MBBS, MD General Medicine",
+    "phone": "+91-9885685792",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "Telugu",
+      "English",
+      "Malayalam",
+      "Tamil"
+    ],
+    "review_count": 206,
+    "time_slots": [
+      "1:00 PM",
+      "11:30 AM",
+      "10:00 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_051",
+    "name": "Dr. Karthik Sharma",
+    "specialist": "Endocrinologist",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.2,
+    "experience_years": 15,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9438670021",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 534,
+    "time_slots": [
+      "5:30 PM",
+      "11:30 AM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_052",
+    "name": "Dr. Ramesh Rajan",
+    "specialist": "Endocrinologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.9,
+    "experience_years": 30,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9956382454",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1500,
+    "languages": [
+      "English",
+      "Malayalam",
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 962,
+    "time_slots": [
+      "5:30 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_053",
+    "name": "Dr. Divya Raman",
+    "specialist": "Endocrinologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.1,
+    "experience_years": 22,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9157210979",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Malayalam",
+      "Telugu"
+    ],
+    "review_count": 973,
+    "time_slots": [
+      "5:30 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_054",
+    "name": "Dr. Priya Babu",
+    "specialist": "Endocrinologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.9,
+    "experience_years": 24,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9661815271",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 781,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_055",
+    "name": "Dr. Swathi Raman",
+    "specialist": "Endocrinologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.1,
+    "experience_years": 14,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9403473540",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Malayalam",
+      "English",
+      "Telugu"
+    ],
+    "review_count": 552,
+    "time_slots": [
+      "10:00 AM",
+      "7:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_056",
+    "name": "Dr. Nithya Nair",
+    "specialist": "Endocrinologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 5.0,
+    "experience_years": 7,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9809154168",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "English",
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 666,
+    "time_slots": [
+      "10:00 AM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_057",
+    "name": "Dr. Neha Iyer",
+    "specialist": "Endocrinologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.6,
+    "experience_years": 26,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9269759238",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "review_count": 755,
+    "time_slots": [
+      "11:30 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_058",
+    "name": "Dr. Priya Sharma",
+    "specialist": "Endocrinologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.3,
+    "experience_years": 29,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9748187344",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Telugu",
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 947,
+    "time_slots": [
+      "1:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_059",
+    "name": "Dr. Rahul Rao",
+    "specialist": "Endocrinologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.7,
+    "experience_years": 13,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9982267260",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Malayalam",
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 636,
+    "time_slots": [
+      "5:30 PM",
+      "7:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_060",
+    "name": "Dr. Aishwarya Natarajan",
+    "specialist": "Endocrinologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.1,
+    "experience_years": 23,
+    "qualification": "MBBS, MD, DM Endocrinology",
+    "phone": "+91-9984484727",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Hindi",
+      "Malayalam"
+    ],
+    "review_count": 350,
+    "time_slots": [
+      "11:30 AM",
+      "10:00 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_061",
+    "name": "Dr. Rahul Raman",
+    "specialist": "Pulmonologist",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.7,
+    "experience_years": 6,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9701471978",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Malayalam",
+      "English",
+      "Hindi"
+    ],
+    "review_count": 704,
+    "time_slots": [
+      "5:30 PM",
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_062",
+    "name": "Dr. Karthik Babu",
+    "specialist": "Pulmonologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.1,
+    "experience_years": 8,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9426578264",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 961,
+    "time_slots": [
+      "10:00 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_063",
+    "name": "Dr. Arun Sharma",
+    "specialist": "Pulmonologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.5,
+    "experience_years": 16,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9362929977",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 222,
+    "time_slots": [
+      "10:00 AM",
+      "3:00 PM",
+      "11:30 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_064",
+    "name": "Dr. Divya Menon",
+    "specialist": "Pulmonologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.2,
+    "experience_years": 28,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9465165722",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "review_count": 448,
+    "time_slots": [
+      "7:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_065",
+    "name": "Dr. Swathi Rajan",
+    "specialist": "Pulmonologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.5,
+    "experience_years": 28,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9749310134",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Malayalam"
+    ],
+    "review_count": 118,
+    "time_slots": [
+      "10:00 AM",
+      "3:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_066",
+    "name": "Dr. Vikram Natarajan",
+    "specialist": "Pulmonologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.7,
+    "experience_years": 21,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9210792509",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "review_count": 747,
+    "time_slots": [
+      "7:00 PM",
+      "1:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_067",
+    "name": "Dr. Divya Pillai",
+    "specialist": "Pulmonologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.5,
+    "experience_years": 8,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9118660898",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "English",
+      "Malayalam",
+      "Tamil"
+    ],
+    "review_count": 890,
+    "time_slots": [
+      "10:00 AM",
+      "7:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_068",
+    "name": "Dr. Vikram Rao",
+    "specialist": "Pulmonologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.2,
+    "experience_years": 8,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9623509499",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "Malayalam",
+      "Hindi"
+    ],
+    "review_count": 165,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM",
+      "7:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_069",
+    "name": "Dr. Balaji Kumar",
+    "specialist": "Pulmonologist",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 5.0,
+    "experience_years": 24,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9123232265",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 782,
+    "time_slots": [
+      "5:30 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_070",
+    "name": "Dr. Nithya Chacko",
+    "specialist": "Pulmonologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.9,
+    "experience_years": 26,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9826692686",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "review_count": 242,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_071",
+    "name": "Dr. Vikram Raman",
+    "specialist": "Cardiologist",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.3,
+    "experience_years": 11,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9364982343",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "Hindi",
+      "English",
+      "Telugu"
+    ],
+    "review_count": 913,
+    "time_slots": [
+      "3:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_072",
+    "name": "Dr. Nithya Pillai",
+    "specialist": "Cardiologist",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.8,
+    "experience_years": 23,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9976391746",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English",
+      "Tamil"
+    ],
+    "review_count": 840,
+    "time_slots": [
+      "3:00 PM",
+      "11:30 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_073",
+    "name": "Dr. Rahul Raman",
+    "specialist": "Cardiologist",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.7,
+    "experience_years": 16,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9894522207",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1500,
+    "languages": [
+      "Hindi",
+      "English",
+      "Telugu"
+    ],
+    "review_count": 669,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_074",
+    "name": "Dr. Karthik Menon",
+    "specialist": "Cardiologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.0,
+    "experience_years": 10,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9260953278",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "review_count": 264,
+    "time_slots": [
+      "11:30 AM",
+      "5:30 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_075",
+    "name": "Dr. Sneha Varma",
+    "specialist": "Cardiologist",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.0,
+    "experience_years": 17,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9131335719",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Tamil",
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 116,
+    "time_slots": [
+      "7:00 PM",
+      "11:30 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_076",
+    "name": "Dr. Manoj Raman",
+    "specialist": "Cardiologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.0,
+    "experience_years": 29,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9902858193",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "Malayalam",
+      "Tamil",
+      "English"
+    ],
+    "review_count": 445,
+    "time_slots": [
+      "7:00 PM",
+      "10:00 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_077",
+    "name": "Dr. Manoj Nair",
+    "specialist": "Cardiologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.4,
+    "experience_years": 11,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9186854797",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 801,
+    "time_slots": [
+      "10:00 AM",
+      "11:30 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_078",
+    "name": "Dr. Ashok Kumar",
+    "specialist": "Cardiologist",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.0,
+    "experience_years": 13,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9533072331",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Malayalam",
+      "Hindi",
+      "Telugu",
+      "English"
+    ],
+    "review_count": 420,
+    "time_slots": [
+      "5:30 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_079",
+    "name": "Dr. Vikram Rao",
+    "specialist": "Cardiologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.6,
+    "experience_years": 19,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9906131780",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 800,
+    "languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "review_count": 859,
+    "time_slots": [
+      "10:00 AM",
+      "11:30 AM",
+      "1:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_080",
+    "name": "Dr. Ananya Kumar",
+    "specialist": "Cardiologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.8,
+    "experience_years": 12,
+    "qualification": "MBBS, MD, DM Cardiology",
+    "phone": "+91-9828725192",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi",
+      "Malayalam"
+    ],
+    "review_count": 107,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_081",
+    "name": "Dr. Swathi Raman",
+    "specialist": "Neurologist",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.2,
+    "experience_years": 13,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9823759461",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Tamil",
+      "Malayalam",
+      "Hindi",
+      "Telugu"
+    ],
+    "review_count": 308,
+    "time_slots": [
+      "10:00 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_082",
+    "name": "Dr. Kavya Sharma",
+    "specialist": "Neurologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.6,
+    "experience_years": 11,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9892885494",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "review_count": 634,
+    "time_slots": [
+      "1:00 PM",
+      "10:00 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_083",
+    "name": "Dr. Kavya Menon",
+    "specialist": "Neurologist",
+    "hospital": "MIOT International",
+    "rating": 4.1,
+    "experience_years": 24,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9233687950",
+    "hospital_phone": "044-42002288",
+    "lat": 13.0189,
+    "lng": 80.1834,
+    "city": "Chennai",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600089",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Hindi",
+      "Malayalam",
+      "Telugu"
+    ],
+    "review_count": 514,
+    "time_slots": [
+      "3:00 PM",
+      "5:30 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_084",
+    "name": "Dr. Ananya Raman",
+    "specialist": "Neurologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.6,
+    "experience_years": 7,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9217850172",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "review_count": 757,
+    "time_slots": [
+      "10:00 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_085",
+    "name": "Dr. Ashok Reddy",
+    "specialist": "Neurologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.8,
+    "experience_years": 9,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9795779204",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 559,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_086",
+    "name": "Dr. Aishwarya Pillai",
+    "specialist": "Neurologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.6,
+    "experience_years": 13,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9234978653",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Telugu",
+      "Tamil",
+      "English"
+    ],
+    "review_count": 985,
+    "time_slots": [
+      "10:00 AM",
+      "3:00 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_087",
+    "name": "Dr. Sneha Krishnan",
+    "specialist": "Neurologist",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.6,
+    "experience_years": 27,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9475129337",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Malayalam",
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 803,
+    "time_slots": [
+      "10:00 AM",
+      "5:30 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_088",
+    "name": "Dr. Karthik Sharma",
+    "specialist": "Neurologist",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.4,
+    "experience_years": 9,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9215822166",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "review_count": 393,
+    "time_slots": [
+      "11:30 AM",
+      "5:30 PM",
+      "3:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_089",
+    "name": "Dr. Kavya Kumar",
+    "specialist": "Neurologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.3,
+    "experience_years": 11,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9520715205",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Malayalam",
+      "Tamil"
+    ],
+    "review_count": 971,
+    "time_slots": [
+      "3:00 PM",
+      "5:30 PM",
+      "10:00 AM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_090",
+    "name": "Dr. Ashok Kumar",
+    "specialist": "Neurologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.4,
+    "experience_years": 18,
+    "qualification": "MBBS, MD, DM Neurology",
+    "phone": "+91-9815070271",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Telugu",
+      "Tamil",
+      "Hindi",
+      "English"
+    ],
+    "review_count": 509,
+    "time_slots": [
+      "10:00 AM",
+      "5:30 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_091",
+    "name": "Dr. Balaji Nair",
+    "specialist": "Orthopedic",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.9,
+    "experience_years": 30,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9387635159",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Malayalam"
+    ],
+    "review_count": 970,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM",
+      "5:30 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_092",
+    "name": "Dr. Kavya Natarajan",
+    "specialist": "Orthopedic",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.8,
+    "experience_years": 5,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9929092897",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ],
+    "review_count": 258,
+    "time_slots": [
+      "5:30 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_093",
+    "name": "Dr. Suresh Iyer",
+    "specialist": "Orthopedic",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.1,
+    "experience_years": 7,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9178959568",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Malayalam",
+      "English",
+      "Hindi"
+    ],
+    "review_count": 964,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM",
+      "7:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_094",
+    "name": "Dr. Balaji Iyer",
+    "specialist": "Orthopedic",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.5,
+    "experience_years": 18,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9844598451",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 417,
+    "time_slots": [
+      "1:00 PM",
+      "11:30 AM",
+      "7:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_095",
+    "name": "Dr. Vignesh Raman",
+    "specialist": "Orthopedic",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.2,
+    "experience_years": 21,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9797839616",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Hindi",
+      "English",
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 50,
+    "time_slots": [
+      "3:00 PM",
+      "7:00 PM",
+      "5:30 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_096",
+    "name": "Dr. Ashok Menon",
+    "specialist": "Orthopedic",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.3,
+    "experience_years": 28,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9357276276",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Hindi",
+      "Tamil",
+      "English"
+    ],
+    "review_count": 698,
+    "time_slots": [
+      "7:00 PM",
+      "11:30 AM",
+      "5:30 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_097",
+    "name": "Dr. Prakash Babu",
+    "specialist": "Orthopedic",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.4,
+    "experience_years": 26,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9275346686",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1500,
+    "languages": [
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 464,
+    "time_slots": [
+      "7:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_098",
+    "name": "Dr. Priya Krishnan",
+    "specialist": "Orthopedic",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.8,
+    "experience_years": 15,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9512117958",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Telugu",
+      "Malayalam",
+      "Tamil",
+      "Hindi"
+    ],
+    "review_count": 787,
+    "time_slots": [
+      "1:00 PM",
+      "10:00 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_099",
+    "name": "Dr. Priya Raman",
+    "specialist": "Orthopedic",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.6,
+    "experience_years": 7,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9183758325",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 789,
+    "time_slots": [
+      "3:00 PM",
+      "1:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_100",
+    "name": "Dr. Arun Menon",
+    "specialist": "Orthopedic",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.0,
+    "experience_years": 24,
+    "qualification": "MBBS, MS Orthopaedics",
+    "phone": "+91-9496201491",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Tamil",
+      "Malayalam",
+      "Hindi",
+      "Telugu"
+    ],
+    "review_count": 158,
+    "time_slots": [
+      "3:00 PM",
+      "5:30 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_101",
+    "name": "Dr. Balaji Reddy",
+    "specialist": "Neurosurgeon",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.4,
+    "experience_years": 23,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9340275696",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1500,
+    "languages": [
+      "Telugu",
+      "Tamil",
+      "Hindi"
+    ],
+    "review_count": 117,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM",
+      "7:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_102",
+    "name": "Dr. Manoj Kumar",
+    "specialist": "Neurosurgeon",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.7,
+    "experience_years": 25,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9299347081",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "English"
+    ],
+    "review_count": 181,
+    "time_slots": [
+      "11:30 AM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_103",
+    "name": "Dr. Swathi Pillai",
+    "specialist": "Neurosurgeon",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.1,
+    "experience_years": 20,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9594735875",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Hindi",
+      "Malayalam"
+    ],
+    "review_count": 819,
+    "time_slots": [
+      "1:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_104",
+    "name": "Dr. Prakash Raman",
+    "specialist": "Neurosurgeon",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.9,
+    "experience_years": 22,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9219417120",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 493,
+    "time_slots": [
+      "3:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_105",
+    "name": "Dr. Karthik Kumar",
+    "specialist": "Neurosurgeon",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.3,
+    "experience_years": 28,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9911457152",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "English",
+      "Telugu",
+      "Malayalam"
+    ],
+    "review_count": 189,
+    "time_slots": [
+      "7:00 PM",
+      "5:30 PM",
+      "10:00 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_106",
+    "name": "Dr. Ananya Varma",
+    "specialist": "Neurosurgeon",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.6,
+    "experience_years": 30,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9528117520",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "Malayalam",
+      "Hindi",
+      "English"
+    ],
+    "review_count": 665,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_107",
+    "name": "Dr. Nithya Babu",
+    "specialist": "Neurosurgeon",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.3,
+    "experience_years": 12,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9512958205",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1500,
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 960,
+    "time_slots": [
+      "1:00 PM",
+      "11:30 AM",
+      "7:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_108",
+    "name": "Dr. Priya Varma",
+    "specialist": "Neurosurgeon",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 5.0,
+    "experience_years": 19,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9123177272",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1500,
+    "languages": [
+      "Malayalam",
+      "Tamil"
+    ],
+    "review_count": 893,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM",
+      "5:30 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_109",
+    "name": "Dr. Sneha Rao",
+    "specialist": "Neurosurgeon",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.4,
+    "experience_years": 6,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9563739430",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Malayalam"
+    ],
+    "review_count": 989,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM",
+      "10:00 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_110",
+    "name": "Dr. Sneha Rajan",
+    "specialist": "Neurosurgeon",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.8,
+    "experience_years": 14,
+    "qualification": "MBBS, MS, MCh Neurosurgery",
+    "phone": "+91-9976789990",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Hindi"
+    ],
+    "review_count": 484,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_111",
+    "name": "Dr. Karthik Krishnan",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.7,
+    "experience_years": 14,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9945994449",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "review_count": 178,
+    "time_slots": [
+      "7:00 PM",
+      "5:30 PM",
+      "11:30 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_112",
+    "name": "Dr. Karthik Menon",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.7,
+    "experience_years": 27,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9188979241",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 800,
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "review_count": 470,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_113",
+    "name": "Dr. Nithya Pillai",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.6,
+    "experience_years": 24,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9106055191",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Malayalam",
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 679,
+    "time_slots": [
+      "3:00 PM",
+      "10:00 AM",
+      "11:30 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_114",
+    "name": "Dr. Prakash Rao",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.1,
+    "experience_years": 15,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9991434781",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 959,
+    "time_slots": [
+      "7:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_115",
+    "name": "Dr. Karthik Nair",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.8,
+    "experience_years": 10,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9131556425",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "English",
+      "Hindi",
+      "Malayalam",
+      "Tamil"
+    ],
+    "review_count": 574,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM",
+      "10:00 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_116",
+    "name": "Dr. Ramesh Menon",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.8,
+    "experience_years": 16,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9627156388",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "Malayalam",
+      "Hindi",
+      "Telugu"
+    ],
+    "review_count": 947,
+    "time_slots": [
+      "1:00 PM",
+      "3:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_117",
+    "name": "Dr. Karthik Sharma",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.2,
+    "experience_years": 26,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9690662049",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 605,
+    "time_slots": [
+      "7:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_118",
+    "name": "Dr. Rahul Natarajan",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.3,
+    "experience_years": 28,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9551421546",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Hindi",
+      "Malayalam",
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 718,
+    "time_slots": [
+      "11:30 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_119",
+    "name": "Dr. Manoj Varma",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.4,
+    "experience_years": 23,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9836550043",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Malayalam",
+      "Telugu"
+    ],
+    "review_count": 420,
+    "time_slots": [
+      "7:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_120",
+    "name": "Dr. Ananya Rajan",
+    "specialist": "Infectious Disease Doctor",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.5,
+    "experience_years": 10,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9548575817",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Telugu",
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 122,
+    "time_slots": [
+      "5:30 PM",
+      "11:30 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_121",
+    "name": "Dr. Sneha Rao",
+    "specialist": "Proctologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.1,
+    "experience_years": 23,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9448178559",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil"
+    ],
+    "review_count": 52,
+    "time_slots": [
+      "5:30 PM",
+      "3:00 PM",
+      "10:00 AM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_122",
+    "name": "Dr. Arun Chacko",
+    "specialist": "Proctologist",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.6,
+    "experience_years": 21,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9164102546",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Hindi",
+      "Malayalam"
+    ],
+    "review_count": 806,
+    "time_slots": [
+      "5:30 PM",
+      "7:00 PM",
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_123",
+    "name": "Dr. Ananya Menon",
+    "specialist": "Proctologist",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.8,
+    "experience_years": 7,
+    "qualification": "MBBS, MS",
+    "phone": "+91-9759507050",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "English",
+      "Malayalam",
+      "Telugu"
+    ],
+    "review_count": 709,
+    "time_slots": [
+      "7:00 PM",
+      "11:30 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_124",
+    "name": "Dr. Priya Kumar",
+    "specialist": "Proctologist",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.1,
+    "experience_years": 8,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9411750725",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 803,
+    "time_slots": [
+      "5:30 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_125",
+    "name": "Dr. Prakash Chacko",
+    "specialist": "Proctologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 5.0,
+    "experience_years": 14,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9361868925",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "review_count": 72,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM",
+      "7:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_126",
+    "name": "Dr. Prakash Babu",
+    "specialist": "Proctologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.3,
+    "experience_years": 12,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9373220568",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Hindi",
+      "Malayalam"
+    ],
+    "review_count": 898,
+    "time_slots": [
+      "1:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_127",
+    "name": "Dr. Nithya Reddy",
+    "specialist": "Proctologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.6,
+    "experience_years": 24,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9576132075",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "review_count": 502,
+    "time_slots": [
+      "10:00 AM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_128",
+    "name": "Dr. Karthik Iyer",
+    "specialist": "Proctologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.0,
+    "experience_years": 23,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9176995752",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "Hindi",
+      "Telugu"
+    ],
+    "review_count": 918,
+    "time_slots": [
+      "5:30 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_129",
+    "name": "Dr. Ananya Rajan",
+    "specialist": "Proctologist",
+    "hospital": "Vijaya Hospital, Vadapalani",
+    "rating": 4.1,
+    "experience_years": 30,
+    "qualification": "MBBS, DNB",
+    "phone": "+91-9346005309",
+    "hospital_phone": "044-23651234",
+    "lat": 13.0485,
+    "lng": 80.2098,
+    "city": "Chennai",
+    "address": "No. 323, NSK Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Malayalam"
+    ],
+    "review_count": 282,
+    "time_slots": [
+      "5:30 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_130",
+    "name": "Dr. Neha Pillai",
+    "specialist": "Proctologist",
+    "hospital": "MIOT International",
+    "rating": 4.1,
+    "experience_years": 13,
+    "qualification": "MBBS, MD",
+    "phone": "+91-9105024269",
+    "hospital_phone": "044-42002288",
+    "lat": 13.0189,
+    "lng": 80.1834,
+    "city": "Chennai",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600089",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 501,
+    "time_slots": [
+      "3:00 PM",
+      "7:00 PM",
+      "11:30 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_131",
+    "name": "Dr. Vikram Krishnan",
+    "specialist": "Vascular Surgeon",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.3,
+    "experience_years": 17,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9672533282",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "Malayalam",
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 302,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM",
+      "10:00 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_132",
+    "name": "Dr. Swathi Natarajan",
+    "specialist": "Vascular Surgeon",
+    "hospital": "MIOT International",
+    "rating": 4.2,
+    "experience_years": 28,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9629209913",
+    "hospital_phone": "044-42002288",
+    "lat": 13.0189,
+    "lng": 80.1834,
+    "city": "Chennai",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600089",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "review_count": 115,
+    "time_slots": [
+      "11:30 AM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_133",
+    "name": "Dr. Vikram Pillai",
+    "specialist": "Vascular Surgeon",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.5,
+    "experience_years": 11,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9398077324",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 530,
+    "time_slots": [
+      "10:00 AM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_134",
+    "name": "Dr. Nithya Kumar",
+    "specialist": "Vascular Surgeon",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.9,
+    "experience_years": 25,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9201626562",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 500,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "review_count": 820,
+    "time_slots": [
+      "7:00 PM",
+      "3:00 PM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_135",
+    "name": "Dr. Swathi Kumar",
+    "specialist": "Vascular Surgeon",
+    "hospital": "MIOT International",
+    "rating": 4.7,
+    "experience_years": 28,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9457539117",
+    "hospital_phone": "044-42002288",
+    "lat": 13.0189,
+    "lng": 80.1834,
+    "city": "Chennai",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600089",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "review_count": 785,
+    "time_slots": [
+      "7:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_136",
+    "name": "Dr. Rahul Babu",
+    "specialist": "Vascular Surgeon",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.6,
+    "experience_years": 28,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9780451071",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "Malayalam",
+      "Hindi"
+    ],
+    "review_count": 143,
+    "time_slots": [
+      "10:00 AM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_137",
+    "name": "Dr. Balaji Rao",
+    "specialist": "Vascular Surgeon",
+    "hospital": "SIMS Hospital, Vadapalani",
+    "rating": 4.9,
+    "experience_years": 14,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9202091143",
+    "hospital_phone": "044-20002001",
+    "lat": 13.0505,
+    "lng": 80.2119,
+    "city": "Chennai",
+    "address": "No 1, Jawaharlal Nehru Salai, Vadapalani, Chennai - 600026",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "review_count": 123,
+    "time_slots": [
+      "7:00 PM",
+      "10:00 AM",
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_138",
+    "name": "Dr. Kavya Iyer",
+    "specialist": "Vascular Surgeon",
+    "hospital": "Apollo Hospitals, Greams Road",
+    "rating": 4.6,
+    "experience_years": 27,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9128038863",
+    "hospital_phone": "044-28293333",
+    "lat": 13.0617,
+    "lng": 80.2542,
+    "city": "Chennai",
+    "address": "21, Greams Lane, Off Greams Road, Chennai - 600006",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 800,
+    "languages": [
+      "Tamil",
+      "Malayalam",
+      "Telugu"
+    ],
+    "review_count": 828,
+    "time_slots": [
+      "3:00 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_139",
+    "name": "Dr. Kavya Rajan",
+    "specialist": "Vascular Surgeon",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.1,
+    "experience_years": 16,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9774672795",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 500,
+    "languages": [
+      "Malayalam",
+      "English"
+    ],
+    "review_count": 931,
+    "time_slots": [
+      "11:30 AM",
+      "5:30 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_140",
+    "name": "Dr. Priya Pillai",
+    "specialist": "Vascular Surgeon",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.6,
+    "experience_years": 23,
+    "qualification": "MBBS, MS, MCh Vascular Surgery",
+    "phone": "+91-9821800808",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Tamil",
+      "English",
+      "Telugu"
+    ],
+    "review_count": 773,
+    "time_slots": [
+      "3:00 PM",
+      "10:00 AM",
+      "7:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_141",
+    "name": "Dr. Karthik Raman",
+    "specialist": "Urologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.0,
+    "experience_years": 27,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9272249327",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Malayalam",
+      "Telugu",
+      "Hindi"
+    ],
+    "review_count": 324,
+    "time_slots": [
+      "10:00 AM",
+      "1:00 PM",
+      "3:00 PM"
+    ]
+  },
+  {
+    "id": "doc_142",
+    "name": "Dr. Ananya Varma",
+    "specialist": "Urologist",
+    "hospital": "Dr. Mehta's Hospitals, Chetpet",
+    "rating": 4.2,
+    "experience_years": 24,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9133694875",
+    "hospital_phone": "044-42271001",
+    "lat": 13.0722,
+    "lng": 80.2372,
+    "city": "Chennai",
+    "address": "No. 2, McNichols Road, 3rd Lane, Chetpet, Chennai - 600031",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Tamil",
+      "Malayalam",
+      "English",
+      "Hindi"
+    ],
+    "review_count": 758,
+    "time_slots": [
+      "7:00 PM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_143",
+    "name": "Dr. Ramesh Natarajan",
+    "specialist": "Urologist",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.1,
+    "experience_years": 13,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9504926691",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "review_count": 435,
+    "time_slots": [
+      "10:00 AM",
+      "1:00 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_144",
+    "name": "Dr. Ramesh Nair",
+    "specialist": "Urologist",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.2,
+    "experience_years": 10,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9200267123",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1200,
+    "languages": [
+      "Tamil",
+      "Telugu"
+    ],
+    "review_count": 611,
+    "time_slots": [
+      "3:00 PM",
+      "1:00 PM",
+      "10:00 AM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_145",
+    "name": "Dr. Divya Krishnan",
+    "specialist": "Urologist",
+    "hospital": "Global Hospitals, Perumbakkam",
+    "rating": 4.8,
+    "experience_years": 5,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9444071131",
+    "hospital_phone": "044-44770000",
+    "lat": 12.9038,
+    "lng": 80.201,
+    "city": "Chennai",
+    "address": "439, Cheran Nagar, Perumbakkam, Chennai - 600100",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1500,
+    "languages": [
+      "Tamil",
+      "Malayalam"
+    ],
+    "review_count": 462,
+    "time_slots": [
+      "11:30 AM",
+      "3:00 PM",
+      "5:30 PM",
+      "1:00 PM"
+    ]
+  },
+  {
+    "id": "doc_146",
+    "name": "Dr. Manoj Rao",
+    "specialist": "Urologist",
+    "hospital": "Prashanth Hospital, Velachery",
+    "rating": 4.6,
+    "experience_years": 24,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9699979808",
+    "hospital_phone": "044-46805544",
+    "lat": 12.9806,
+    "lng": 80.2227,
+    "city": "Chennai",
+    "address": "No. 36 & 36A, Velachery Main Road, Velachery, Chennai - 600042",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 800,
+    "languages": [
+      "Malayalam",
+      "Telugu"
+    ],
+    "review_count": 978,
+    "time_slots": [
+      "5:30 PM",
+      "7:00 PM"
+    ]
+  },
+  {
+    "id": "doc_147",
+    "name": "Dr. Sneha Menon",
+    "specialist": "Urologist",
+    "hospital": "Fortis Malar Hospital, Adyar",
+    "rating": 4.8,
+    "experience_years": 28,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9857728114",
+    "hospital_phone": "044-42892222",
+    "lat": 13.0125,
+    "lng": 80.2581,
+    "city": "Chennai",
+    "address": "No. 52, 1st Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+    "available": true,
+    "available_today": false,
+    "consultation_fee": 1200,
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "Malayalam"
+    ],
+    "review_count": 962,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM",
+      "10:00 AM",
+      "11:30 AM"
+    ]
+  },
+  {
+    "id": "doc_148",
+    "name": "Dr. Suresh Chacko",
+    "specialist": "Urologist",
+    "hospital": "MIOT International",
+    "rating": 4.6,
+    "experience_years": 22,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9407548249",
+    "hospital_phone": "044-42002288",
+    "lat": 13.0189,
+    "lng": 80.1834,
+    "city": "Chennai",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600089",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Malayalam",
+      "Telugu"
+    ],
+    "review_count": 71,
+    "time_slots": [
+      "1:00 PM",
+      "10:00 AM"
+    ]
+  },
+  {
+    "id": "doc_149",
+    "name": "Dr. Neha Sharma",
+    "specialist": "Urologist",
+    "hospital": "Kauvery Hospital, Alwarpet",
+    "rating": 4.6,
+    "experience_years": 25,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9167578828",
+    "hospital_phone": "044-40006000",
+    "lat": 13.0336,
+    "lng": 80.2562,
+    "city": "Chennai",
+    "address": "No. 199, Luz Church Road, Alwarpet, Chennai - 600004",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Tamil",
+      "Hindi",
+      "English"
+    ],
+    "review_count": 278,
+    "time_slots": [
+      "11:30 AM",
+      "10:00 AM",
+      "5:30 PM"
+    ]
+  },
+  {
+    "id": "doc_150",
+    "name": "Dr. Aishwarya Iyer",
+    "specialist": "Urologist",
+    "hospital": "Sri Ramachandra Medical Centre",
+    "rating": 4.5,
+    "experience_years": 15,
+    "qualification": "MBBS, MS, MCh Urology",
+    "phone": "+91-9456519283",
+    "hospital_phone": "044-45928500",
+    "lat": 13.0392,
+    "lng": 80.1506,
+    "city": "Chennai",
+    "address": "No. 1, Ramachandra Nagar, Porur, Chennai - 600116",
+    "available": true,
+    "available_today": true,
+    "consultation_fee": 1000,
+    "languages": [
+      "Telugu",
+      "Tamil",
+      "Hindi",
+      "English"
+    ],
+    "review_count": 100,
+    "time_slots": [
+      "1:00 PM",
+      "5:30 PM",
+      "7:00 PM"
+    ]
+  }
+]

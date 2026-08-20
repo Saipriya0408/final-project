@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Fever Symptoms"
+        android:textColor="@color/text_primary"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Please check all the symptoms currently experienced. This helps our AI refine your diagnosis."
+        android:textColor="@color/text_desc"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/tvTitle" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnNext"
+        app:layout_constraintTop_toBottomOf="@id/tvDesc">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- High Temp -->
+            <CheckBox
+                android:id="@+id/cbHighTemp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_card_white"
+                android:padding="16dp"
+                android:text="High Temp (>100.4°F)\nPersistent elevated body heat"
+                android:textColor="@color/text_title" />
+
+            <!-- Chills & Shivering -->
+            <CheckBox
+                android:id="@+id/cbChills"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_card_white"
+                android:padding="16dp"
+                android:text="Chills &amp; Shivering\nFeeling cold despite a warm room"
+                android:textColor="@color/text_title" />
+
+            <!-- Body Aches -->
+            <CheckBox
+                android:id="@+id/cbBodyAches"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_card_white"
+                android:padding="16dp"
+                android:text="Body Aches\nMuscle soreness or stiffness"
+                android:textColor="@color/text_title" />
+                
+            <!-- Headache -->
+            <CheckBox
+                android:id="@+id/cbHeadache"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_card_white"
+                android:padding="16dp"
+                android:text="Headache\nPressure or throbbing in the head"
+                android:textColor="@color/text_title" />
+
+            <!-- Sweating -->
+            <CheckBox
+                android:id="@+id/cbSweating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_card_white"
+                android:padding="16dp"
+                android:text="Sweating\nExcessive perspiration"
+                android:textColor="@color/text_title" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginTop="16dp"
+                android:scaleType="centerCrop"
+                android:background="@color/white"
+                android:src="@drawable/bg_green_map_placeholder" /> <!-- Placeholder for thermometer image -->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Tip: If your temperature exceeds 103°F (39.4°C), seek immediate medical consultation."
+                android:textColor="@color/text_desc"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bg_button_primary"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Next Step ➔"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
