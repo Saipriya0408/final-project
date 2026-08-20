@@ -1,42 +1,63 @@
-name: SymptoCare Test Automation and Execution Report
+name: SymptoCare Complete Test Suite
 
 on:
   push:
     branches: [ "**" ]
   pull_request:
     branches: [ "**" ]
+  workflow_dispatch:
 
 jobs:
   test-and-report:
+    name: Execute SymptoCare Full Test Lifecycle
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Code
+    - name: Checkout Codebase
       uses: actions/checkout@v4
 
-    - name: Set up Python
+    - name: Set up Python Environment
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
         cache: 'pip'
 
-    - name: Install Report Dependencies
+    - name: Install Global Testing Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas openpyxl
+        pip install Flask pandas openpyxl
 
-    - name: Run Test Suite and Generate Report
+    - name: Run API Integration Tests
       run: |
-        python tests/run_all_tests.py
+        python tests/api/run_api_tests.py
 
-    - name: Publish Test Dashboard to Job Summary
+    - name: Run Vulnerability & Security Tests
       run: |
-        cat github_summary.md >> $GITHUB_STEP_SUMMARY
-        cat ci_test_summary.md >> $GITHUB_STEP_SUMMARY
+        python tests/security/run_security_tests.py
 
-    - name: Upload Excel Test Report Artifact
+    - name: Run Performance & Load Tests
+      run: |
+        python tests/performance/run_perf_tests.py
+
+    - name: Run Selenium E2E Web UI Tests
+      run: |
+        python tests/selenium/run_selenium_tests.py
+
+    - name: Run Appium Android UI Tests
+      run: |
+        python tests/appium/run_appium_tests.py
+
+    - name: Compile Results and Generate Dashboard
+      run: |
+        python backend/generate_report.py
+        python tests/compile_results.py
+
+    - name: Upload Test Execution Reports (Artifacts)
       uses: actions/upload-artifact@v4
       with:
-        name: test-execution-report
-        path: test_report.xlsx
+        name: SymptoCare-Test-Reports
+        path: |
+          reports/test_report.xlsx
+          reports/github_summary.md
+          test-results/
         retention-days: 30

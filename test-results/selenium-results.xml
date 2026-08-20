@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuites><testsuite name="Selenium E2E Web UI" tests="300" failures="0" skipped="300" time="0.000"><testcase name="All Selenium Cases" classname="TestWebUI" time="0.000"><skipped message="Not executed - environment dependency unavailable (Chrome/Selenium missing)" /></testcase></testsuite></testsuites>

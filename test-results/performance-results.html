@@ -1,0 +1,51 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>SymptoCare Performance Test Results</title>
+        <style>
+            body { font-family: 'Segoe UI', Arial, sans-serif; margin: 30px; background-color: #F8F9F9; color: #2C3E50; }
+            .container { max-width: 800px; margin: auto; background: white; padding: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+            h1 { color: #8E44AD; border-bottom: 2px solid #8E44AD; padding-bottom: 10px; }
+            .metrics-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+            .metrics-table td, .metrics-table th { padding: 12px; border: 1px solid #D5D8DC; text-align: left; }
+            .metrics-table th { background-color: #F2F4F4; font-weight: bold; }
+            .status-badge { display: inline-block; padding: 6px 12px; border-radius: 4px; color: white; font-weight: bold; background-color: #117864; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>SymptoCare Load & Performance Metrics</h1>
+            <p>Target Endpoint: <strong>http://127.0.0.1:5000/api/health</strong></p>
+            <span class="status-badge">Status: PASSED</span>
+            
+            <table class="metrics-table">
+                <tr>
+                    <th>Metric</th>
+                    <th>Measured Value</th>
+                </tr>
+                <tr>
+                    <td>Total Requests</td>
+                    <td>25</td>
+                </tr>
+                <tr>
+                    <td>Throughput (Requests/Second)</td>
+                    <td>189.54 req/s</td>
+                </tr>
+                <tr>
+                    <td>Average Latency</td>
+                    <td>22.43 ms</td>
+                </tr>
+                <tr>
+                    <td>P50 / P90 / P99 Latency</td>
+                    <td>15.68 ms / 59.37 ms / 66.76 ms</td>
+                </tr>
+                <tr>
+                    <td>Success Rate</td>
+                    <td>100.0%</td>
+                </tr>
+            </table>
+        </div>
+    </body>
+    </html>
+    

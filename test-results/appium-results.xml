@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuites><testsuite name="Appium Android UI" tests="300" failures="0" skipped="300" time="0.000"><testcase name="All Android Emulator Actions" classname="TestAndroidAppium" time="0.000"><skipped message="NOT EXECUTED - Physical Android device required" /></testcase></testsuite></testsuites>

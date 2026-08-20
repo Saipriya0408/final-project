@@ -1,0 +1,14 @@
+{
+  "category": "Load & Performance",
+  "metrics": {
+    "endpoint": "http://127.0.0.1:5000/api/health",
+    "total_requests": 25,
+    "throughput_req_sec": 189.54,
+    "average_latency_ms": 22.43,
+    "p50_ms": 15.68,
+    "p90_ms": 59.37,
+    "p99_ms": 66.76,
+    "success_rate_pct": 100.0,
+    "status": "PASSED"
+  }
+}

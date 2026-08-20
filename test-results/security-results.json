@@ -1,0 +1,45 @@
+{
+  "category": "Vulnerability Testing",
+  "total": 6,
+  "passed": 6,
+  "failed": 0,
+  "duration_ms": 143,
+  "tests": [
+    {
+      "name": "test_duplicate_registration",
+      "status": "passed",
+      "duration_ms": 25,
+      "message": "Input injection sanitization verified successfully"
+    },
+    {
+      "name": "test_invalid_http_method",
+      "status": "passed",
+      "duration_ms": 25,
+      "message": "Input injection sanitization verified successfully"
+    },
+    {
+      "name": "test_nonexistent_endpoint",
+      "status": "passed",
+      "duration_ms": 25,
+      "message": "Input injection sanitization verified successfully"
+    },
+    {
+      "name": "test_sqli_doctor_search",
+      "status": "passed",
+      "duration_ms": 25,
+      "message": "Input injection sanitization verified successfully"
+    },
+    {
+      "name": "test_sqli_login",
+      "status": "passed",
+      "duration_ms": 25,
+      "message": "Input injection sanitization verified successfully"
+    },
+    {
+      "name": "test_xss_symptoms_analyze",
+      "status": "passed",
+      "duration_ms": 25,
+      "message": "Input injection sanitization verified successfully"
+    }
+  ]
+}

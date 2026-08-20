@@ -1,0 +1,9 @@
+{
+  "category": "Appium Android UI",
+  "total": 300,
+  "passed": 0,
+  "failed": 0,
+  "skipped": 300,
+  "status": "skipped",
+  "message": "NOT EXECUTED - Physical Android device required"
+}
