@@ -45,8 +45,8 @@ def start_backend():
     # Run the server in a background process
     proc = subprocess.Popen(
         [python_exe, app_py],
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
         cwd=os.path.join(ROOT_DIR, "backend")
     )
     return proc
